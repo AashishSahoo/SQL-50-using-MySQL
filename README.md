@@ -1,4 +1,4 @@
-
+.
 Explore a comprehensive collection of SQL solutions for the top 50 LeetCode problems! This repository contains clear and concise MySQL scripts that provide solutions to a diverse range of database-related challenges. Whether you're a beginner looking to enhance your SQL skills or an experienced developer seeking efficient solutions, this collection serves as a valuable resource.
 
 ## Features 🚀
